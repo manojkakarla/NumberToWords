@@ -1,7 +1,7 @@
 Converts to numbers to words
 
 Sample:
-
+```
 13433 => Thirteen Thousand Four Hundred and Thirty Three
 12000100 => Twelve Million and One Hundred
 101001001 => One Hundred and One Million One Thousand and One
@@ -34,3 +34,4 @@ Sample:
 207599079 => Two Hundred and Seven Million Five Hundred and Ninety Nine Thousand and Seventy Nine
 350844969 => Three Hundred and Fifty Million Eight Hundred and Forty Four Thousand Nine Hundred and Sixty Nine
 539972056 => Five Hundred and Thirty Nine Million Nine Hundred and Seventy Two Thousand and Fifty Six
+```
