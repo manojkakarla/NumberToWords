@@ -1,6 +1,18 @@
-Converts to numbers to words
-
-Sample:
+# Number to word converter
+## Maven run
+```
+mvn exec:java -Dexec.args="434,607,129"
+```
+## Maven package
+```
+mvn package
+```
+## Docker
+```bash
+docker image build -t number-to-words:latest .
+docker run number-to-words:latest 344232
+```
+**Examples:**
 ```
 13433 => Thirteen Thousand Four Hundred and Thirty Three
 12000100 => Twelve Million and One Hundred
